@@ -244,7 +244,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::playerController
   jumpNumber: 2
   health: 5
-  speed: 5
+  speed: 10
   jumpForce: 0
   moveInputH: 0
   moveInputV: 0
@@ -347,7 +347,7 @@ Transform:
   m_GameObject: {fileID: 736338403}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.046838406, y: 0.9601874, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.2, y: 0.2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
